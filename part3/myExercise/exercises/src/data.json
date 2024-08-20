@@ -1,0 +1,26 @@
+{"projects":[
+    {"name": "RG RX-78-2 2.0",
+    "scale": "1/144",
+    "type": "Gunpla",
+    "photo": "https://m.media-amazon.com/images/I/81j8GYy9pNL._AC_SL1500_.jpg"},
+
+    {"name": "M4 Sherman Medium Tank",
+    "scale": "1/48",
+    "type": "Tank",
+    "photo": "https://m.media-amazon.com/images/I/71aBAcKtgsL._AC_SL1500_.jpg"},
+
+    {"name":"RMS Titanic",
+    "scale": "1/570",
+    "type": "Ship",
+    "photo": "https://m.media-amazon.com/images/I/51byADvRUBL._AC_SL1113_.jpg"},
+
+    {"name":"T-65 X-Wing Starfighter",
+    "scale": "1/72",
+    "type": "Plane",
+    "photo": "https://m.media-amazon.com/images/I/71FMAl-ISeL._AC_SL1500_.jpg"},
+
+    {"name":"Lionel Union Pacific Flyer",
+    "scale": "1/48",
+    "type": "Train",
+    "photo": "https://m.media-amazon.com/images/I/617njo041KL._AC_SL1500_.jpg"}
+]}
